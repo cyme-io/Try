@@ -1,10 +1,5 @@
-//
-//  Package.swift
-//  Try
-//
-//  Created by Matthieu Kopp on 10/19/20.
-//  Copyright © 2020 Weebly. All rights reserved.
-//
+// swift-tools-version:5.0
+// The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
 
